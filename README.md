@@ -36,8 +36,10 @@ Why Heatmap?
 Heatmaps are excellent for comparing two different categories of data.For example, we can place WHO regions or countries on one axis, and case types such a
 Confirmed, Deaths, Recovered, and Active on the other axis. The resulting heatmap will immediately show which regions have the highest confirmed cases, where 
 recovery rates are stronger, or which areas are most affected by deaths and active cases.
+
 ![WHO Heatmap](images/whoheatmap.png)
 
 
 For Nepal
+
 ![Nepal Barchat](images/Nepalbarchat.png)
