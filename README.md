@@ -37,4 +37,4 @@ recovery rates are stronger, or which areas are most affected by deaths and acti
 
 
 For Nepal
-![Nepal Barchat](images/nepalbarchat.png)
+![Nepal Barchat](images/Nepalbarchat.png)
