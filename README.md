@@ -1,4 +1,5 @@
 🦠 COVID-19 Analysis
+
 This project analyzes the COVID-19 dataset and visualizes its trends using Python. It focuses on global and country-level patterns (with a special case study on Nepal)
 and provides meaningful insights with data visualization.
 
@@ -17,6 +18,7 @@ Features
 
 
 Requirements
+
 1. Python 
 2. pandas 
 3. numpy 
@@ -26,6 +28,7 @@ Requirements
 
 
 Heat Map
+
 A heatmap is a data visualization technique that represents the magnitude of a phenomenon as color in two dimensions. The variation in color, or "heat," is used to
 show where the concentration of a certain variable is higher or lower.
 
